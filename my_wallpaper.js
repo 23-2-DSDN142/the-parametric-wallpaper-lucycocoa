@@ -1,3 +1,4 @@
+
 //your parameter variables go here!
 let pomEarY = 138;
 let pomEyeY = 150;
@@ -14,7 +15,7 @@ let cellHeight =200;
 
 function setup_wallpaper(pWallpaper) {
   pWallpaper.output_mode(GRID_WALLPAPER);
-  pWallpaper.resolution(NINE_LANDSCAPE);
+  pWallpaper.resolution(NINE_PORTRAIT);
   pWallpaper.show_guide(false); 
 
   //Grid settings
@@ -90,7 +91,7 @@ line(42,58,42.7,67,139);
 line(37,69,49,64);//golden mouth line 
 
 
-
+////////////////
 
 noStroke();
 fill(0)
@@ -123,7 +124,7 @@ stroke(0);
 strokeWeight(1);
 line(105,126,105,133)//husky mouth line
 
-
+////////////////////////////
 
 fill(255); 
 noStroke(); 
