@@ -229,13 +229,13 @@ Wallpaper 8:
 //your parameter variables go here!
 let pomEarY = 138;
 let pomEyeY = 150;
-let eyethickness = 4;
-let eyelength = 4;     
+let eyethickness = 7;
+let eyelength = 14;     
 let eyecolor = (0);      //pomeranian ear & eye
-let pawcolor = (0)
+let pawcolor = (0);
 let bgcolor = "#a1c491"
 let rowOffset = 0;
-let cellWidth =200;
+let cellWidth =100;
 let cellHeight =250;
 
 //
