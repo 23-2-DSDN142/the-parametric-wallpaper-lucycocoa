@@ -15,7 +15,7 @@ let cellHeight =200;
 
 function setup_wallpaper(pWallpaper) {
   pWallpaper.output_mode(GRID_WALLPAPER);
-  pWallpaper.resolution(NINE_PORTRAIT);
+  pWallpaper.resolution(A3);
   pWallpaper.show_guide(false); 
 
   //Grid settings
@@ -87,7 +87,7 @@ arc(67,pomEarY-106,9,13,70,-900);//golden ear_inside
 
 stroke(0);
 strokeWeight(1);
-line(42,58,42.7,67,139);
+line(42,58,42.7,66.5,139);
 line(37,69,49,64);//golden mouth line 
 
 
