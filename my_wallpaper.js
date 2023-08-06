@@ -24,6 +24,7 @@ function setup_wallpaper(pWallpaper) {
 
  
 }
+
 function wallpaper_background() {
   background(bgcolor); 
 }
