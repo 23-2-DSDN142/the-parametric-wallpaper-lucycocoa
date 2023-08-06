@@ -7,7 +7,7 @@ let eyecolor = (0);      //pomeranian ear & eye
 let pawcolor = "#3d85c6"
 let bgcolor = "#9FC5E8"
 let rowOffset = 0;
-let cellWidth =200;
+//let cellWidth =200;
 let cellHeight =200;
 
 //
